@@ -10,11 +10,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects,Develop at least 5 android apps and publish in playstore
 - ⚡ Fun fact: Finding bug and create unfinished side project 
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 📫 Contact Me
 - Instagram - [Teguh Ananda Permana](https://www.instagram.com/teguhananda.permana/)
-- Telegram - [Teguh Ananda Permana] (@teguhape)
+- Telegram - [Teguh Ananda Permana](https://www.t.me/teguhape)
