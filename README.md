@@ -13,6 +13,38 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2049%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Kotlin                   1 hr 4 mins         █████████████████████░░░░   85.76% 
+Groovy                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.24%
+
+🔥 Editors: 
+Android Studio           1 hr 15 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  1 hr 15 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   6 repos             █████████████████████░░░░   85.71% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
