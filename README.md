@@ -13,9 +13,9 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,15 +23,15 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Kotlin                   1 hr 50 mins        ██████████████████████░░░   88.35% 
-Groovy                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
+Kotlin                   2 hrs 49 mins       █████████████████░░░░░░░░   69.75% 
+XML                      1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.68% 
+Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
 
 🔥 Editors: 
-Android Studio           2 hrs 5 mins        █████████████████████████   100.0%
+Android Studio           4 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.0%
+Windows                  4 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -45,7 +45,7 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
