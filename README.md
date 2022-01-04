@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently learning more about Advance Android Developer
 - 👨‍🎓 I’m currently Studying at Singaperbangsa Karawang University majoring in Information Systems
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects,Develop at least 5 android apps and publish in playstore
+- 🥅 2022 Goals: Contribute more to Open Source projects,Develop at least 10 android apps and publish in playstore
 - ⚡ Fun fact: Finding bug and create unfinished side project 
 
 ### 📊 Weekly development breakdown
@@ -51,3 +51,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ### 📫 Contact Me
 - Instagram - [Teguh Ananda Permana](https://www.instagram.com/teguhananda.permana/)
 - Telegram - [Teguh Ananda Permana](https://www.t.me/teguhape)
+- Whatsapp - [Teguh Ananda Permana](https://wa.link/uv0mby)
+- Email - teguhpermana202@gmail.com
