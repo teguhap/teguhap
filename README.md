@@ -3,6 +3,7 @@
 [![Teguhap's github stats](https://github-readme-stats.vercel.app/api?username=teguhap)](https://github.com/teguhap/teguhap)
 
 ### I'm a Junior Mobile Developer!
+- 🧑‍💻 I’m currently intern at Telkomsel as a Mobile Developer!
 - 🔭 I’m currently working on a few of side project!
 - 👨‍💻 I’m currently learning more about Advance Mobile Developer
 - 👨‍🎓 I’m currently Studying at Singaperbangsa Karawang University majoring in Information Systems
