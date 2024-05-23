@@ -1,6 +1,5 @@
 ## Hi there, I'm Teguh Ananda Permana - aka teguhap 👋
 
-[![Teguhap's github stats](https://github-readme-stats.vercel.app/api?username=teguhap)](https://github.com/teguhap/teguhap)
 
 ### I'm a Flutter Developer!
 - 🔭 I’m currently working on a few of side project!
